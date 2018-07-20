@@ -1,5 +1,9 @@
 == WikiLink Application - Neo4j & Wikipedia graph visualization
 
+=== What is WikiLink?
+
+WikiLink is a web project that allows faster searching & graph visualization on the link network created between the Wikipedia Categories & Pages URLs. WikiLink allows to search quickly through all its categories & pages URLs and see their relevance on the Wikipedia knowledge network. Also allows graph exploration from a starting custom Category or Page, find the shortest path between two of them or traverse in a graph way the hierarchy of a given Category. This big picture exploration intends to be a complimentary way for learning.
+
 === Stack
 
 * https://github.com/neo4j-examples/movies-python-bolt - Example app used as base
